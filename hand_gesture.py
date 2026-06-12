@@ -52,10 +52,6 @@ while True:
                 pyautogui.press('volumedown')
                 last_press_time = current_time
 
-            # if hand_gesture == 'pointing up':
-            #     pyautogui.press('volumeup')
-            # elif hand_gesture == 'pointing down':
-            #     pyautogui.press('volumedown')
             
             
 
